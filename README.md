@@ -4,7 +4,7 @@
 This repository contains a comprehensive analysis of traffic accidents in Washington D.C. The analysis utilizes Tableau for data visualization and explores trends, types, and outcomes of accidents across different times and locations within the city.
 
 ## Data Source
-The dataset includes details from various traffic accidents, providing insights into types of accidents, number of injuries, dates, and locations. The link to the dataset can be found in the GitHub repo.
+The dataset includes details from various traffic accidents, providing insights into types of accidents, number of injuries, dates, and locations. The link to the dataset can be found in the Dataset file in this repository.
 
 ## Analysis and Insights
 The project involved a series of data visualizations to analyze the accidents in Washington D.C. Key aspects of the analysis include:
